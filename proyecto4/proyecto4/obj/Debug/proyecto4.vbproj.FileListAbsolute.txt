@@ -1,0 +1,12 @@
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\bin\Debug\proyecto4.exe.config
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\bin\Debug\proyecto4.exe
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\bin\Debug\proyecto4.pdb
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\bin\Debug\proyecto4.xml
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\obj\Debug\proyecto4.vbprojAssemblyReference.cache
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\obj\Debug\proyecto4.Form1.resources
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\obj\Debug\proyecto4.Resources.resources
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.GenerateResource.cache
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\obj\Debug\proyecto4.exe
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\obj\Debug\proyecto4.xml
+C:\Users\win512\Documents\David R 26144\proyecto4\proyecto4\obj\Debug\proyecto4.pdb
