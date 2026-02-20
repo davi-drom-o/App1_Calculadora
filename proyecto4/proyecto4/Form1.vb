@@ -23,10 +23,17 @@
     End Sub
 
     Private Sub entre_Click(sender As Object, e As EventArgs) Handles entre.Click
-        Dim Numero1 As Double = Double.Parse(num1.Text)
-        Dim Numero2 As Double = Double.Parse(num2.Text)
 
-        Dim resultado As Double = Numero1 / Numero2
+        Dim resultado
+
+        Dim Numero1 As Double = Double.Parse(Me.num1.Text)
+        Dim Numero2 As Double = Double.Parse(Me.num2.Text)
+
+        If Numero2 > 0 Then
+            resultado = Numero1 / Numero2
+        Else
+            resultado = "nah twin"
+        End If
 
         Label4.Text = resultado.ToString()
     End Sub
@@ -90,5 +97,9 @@
 
     Private Sub RadioButton2_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton2.CheckedChanged
         activo = num2
+    End Sub
+
+    Private Sub Button10_Click(sender As Object, e As EventArgs) Handles Button10.Click
+        activo.Text = activo.Text & "."
     End Sub
 End Class
